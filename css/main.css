@@ -17,7 +17,7 @@ video {
   display: inline-block;
   *display: inline;
   *zoom: 1; }
-
+.test { background: #fff; };
 audio:not([controls]) {
   display: none;
   height: 0; }
