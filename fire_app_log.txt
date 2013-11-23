@@ -2,3 +2,27 @@
 2013-11-23 03:12:06 identical css/cepar6.css 
 2013-11-23 03:12:38 overwrite css/cepar6.css 
 2013-11-23 03:13:41 overwrite css/cepar6.css 
+2013-11-23 03:19:24 overwrite css/cepar6.css 
+2013-11-23 03:19:28 overwrite css/cepar6.css 
+2013-11-23 03:20:11 overwrite css/cepar6.css 
+2013-11-23 03:20:15 overwrite css/cepar6.css 
+2013-11-23 03:21:03 overwrite css/cepar6.css 
+2013-11-23 03:21:52     error sass/cepar6.scss (Line 23: Undefined mixin 'box-sizing'.)
+2013-11-23 03:21:52 overwrite css/cepar6.css 
+2013-11-23 03:22:27 overwrite css/cepar6.css 
+2013-11-23 03:22:30 identical css/cepar6.css 
+2013-11-23 03:22:48 overwrite css/cepar6.css 
+2013-11-23 03:23:07 overwrite css/cepar6.css 
+2013-11-23 03:23:16 overwrite css/cepar6.css 
+2013-11-23 03:24:20 overwrite css/cepar6.css 
+2013-11-23 03:24:23 overwrite css/cepar6.css 
+2013-11-23 03:24:38 overwrite css/cepar6.css 
+2013-11-23 03:25:27 overwrite css/cepar6.css 
+2013-11-23 03:25:44 overwrite css/cepar6.css 
+2013-11-23 03:25:56 overwrite css/cepar6.css 
+2013-11-23 03:26:22     error sass/cepar6.scss (Line 51: Invalid CSS after "            left": expected ";", was ": 1px;")
+2013-11-23 03:26:22 overwrite css/cepar6.css 
+2013-11-23 03:26:27 overwrite css/cepar6.css 
+2013-11-23 03:26:36 overwrite css/cepar6.css 
+2013-11-23 03:27:24 overwrite css/cepar6.css 
+2013-11-23 03:30:50 overwrite css/cepar6.css 
