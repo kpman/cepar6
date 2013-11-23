@@ -320,64 +320,64 @@ html {
   margin: 0; }
 
 .bg-1 {
-  height: 1720px;
+  height: 1080px;
   width: 1440px;
   background-image: url(../img/1.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
+  background-size: 1720px 1080px;
   /*background-position:-34px -122px;*/
   z-index: 1; }
 
 .bg-2 {
-  height: 1720px;
+  height: 1080px;
   width: 1440px;
   background-image: url(../img/2.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
+  background-size: 1720px 1080px;
   /*      background-position:-34px -122px;*/
   z-index: 1; }
 
 .bg-3 {
-  height: 1720px;
+  height: 1080px;
   width: 1440px;
   background-image: url(../img/3.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
+  background-size: 1720px 1080px;
   background-position: -34px -122px;
   z-index: 1; }
 
 .bg-4 {
-  height: 1720px;
+  height: 1080px;
   width: 1440px;
   background-image: url(../img/4.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
+  background-size: 1720px 1080px;
   background-position: -34px -122px;
   z-index: 1; }
 
 .bg-5 {
-  height: 1720px;
+  height: 1080px;
   width: 1440px;
   background-image: url(../img/5.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
+  background-size: 1720px 1080px;
   background-position: -34px -122px;
   z-index: 1; }
 
 .bg-6 {
-  height: 1720px;
+  height: 1080px;
   width: 1440px;
   background-image: url(../img/6.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
+  background-size: 1720px 1080px;
   background-position: -34px -122px;
   z-index: 1; }
 
 .bg-7 {
-  height: 1720px;
+  height: 1080px;
   width: 1440px;
   background-image: url(../img/7.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
+  background-size: 1720px 1080px;
   background-position: -34px -122px;
   z-index: 1; }
