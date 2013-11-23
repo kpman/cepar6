@@ -1,7 +1,7 @@
 function resizePages() {
     var h = $(window).height();
     var w = $(window).width();
-    var height = h < 1440 ? 1440 : h;
+    var height = h < 1080 ? 1080 : h;
     var mainPadding = "+=" + (w-1440)/2;
     $('section').css('height',height);
     $('.dowhat').css('height',height*2);
