@@ -381,3 +381,9 @@ html {
   background-size: 1720px 1440px;
   background-position: -34px -122px;
   z-index: 1; }
+
+#register {
+  background: #000;
+  color: white; }
+  #register h1 {
+    text-align: center; }
