@@ -280,7 +280,8 @@ html {
   background: #000; }
 
 body {
-  font-family: Raleway,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'HelveticaNeue thin',Raleway,'細明體','新細明體','微軟正黑體',sans-serif;
   overflow-x: hidden; }
 
 #nav {
@@ -398,3 +399,18 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
   z-index: 9999;
   color: #fff; }
+
+#sign:hover {
+  background-color: rgba(240,0,0,0.3)!important;
+}
+
+.content {
+  background-color: rgba(0,0,0,0.6);
+  text-align: justify;
+  padding: 0 10px;
+}
+
+.introduction {
+  text-align: center;
+  z-index: 10;
+}
