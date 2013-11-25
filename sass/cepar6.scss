@@ -24,6 +24,7 @@ html {
 }
 body { 
     font-family: Raleway,sans-serif; 
+    overflow-x: hidden; 
 }
 
 #nav {
@@ -142,10 +143,13 @@ body {
 
 #footer {
     position: fixed;
-    height: 55px;
+    padding: 5px;
+    height: 64px;
     bottom: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.6);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
     z-index: 9999;
+    color: #fff;
+
 }
