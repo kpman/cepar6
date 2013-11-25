@@ -319,18 +319,18 @@ body {
   margin: 0; }
 
 .bg-1 {
-  height: 1720px;
-  width: 1440px;
-  background-image: url(../img/1.jpg);
+  height: 1080px;
+  background-size: 1440px 1080px;
+
+  background-image: url(../img/bg-1.jpg);
   background-repeat: no-repeat;
-  background-size: 1720px 1440px;
   /*background-position:-34px -122px;*/
   z-index: 1; }
 
 .bg-2 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/2.jpg);
+  background-image: url(../img/1.jpg);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   /*      background-position:-34px -122px;*/
@@ -339,7 +339,7 @@ body {
 .bg-3 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/3.jpg);
+  background-image: url(../img/dress.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
@@ -348,7 +348,7 @@ body {
 .bg-4 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/4.jpg);
+  background-image: url(../img/wine.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
@@ -357,7 +357,7 @@ body {
 .bg-5 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/5.jpg);
+  background-image: url(../img/face_bg.jpg);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
@@ -366,7 +366,7 @@ body {
 .bg-6 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/6.jpg);
+  background-image: url(../img/masquerade.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
@@ -375,7 +375,7 @@ body {
 .bg-7 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/7.jpg);
+  background-image: url(../img/bg.jpg);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
