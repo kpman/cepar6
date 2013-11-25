@@ -266,3 +266,135 @@ textarea {
   background: #ccc;
   color: #000;
   padding: 0.2em 0; }
+
+@font-face {
+  font-family: Raleway;
+  src: url("../fonts/raleway_thin.otf") format("opentype"); }
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+html {
+  background: #000; }
+
+body {
+  font-family: Raleway,"微軟正黑體",sans-serif;
+  overflow-x: hidden; }
+
+#nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+  z-index: 9999; }
+  #nav ul {
+    width: 100%;
+    height: 55px;
+    margin: 0;
+    padding: 0; }
+  #nav li {
+    display: inline-block;
+    list-style: none; }
+  #nav a {
+    display: block;
+    position: relative;
+    padding: 18px 15px;
+    font-size: 14px;
+    color: white;
+    text-decoration: none; }
+    #nav a:hover {
+      background: rgba(255, 255, 255, 0.6);
+      top: 1px;
+      left: 1px;
+      -webkit-transition: background 0.15s linear;
+      -moz-transition: background 0.15s linear;
+      -o-transition: background 0.15s linear;
+      transition: background 0.15s linear; }
+
+#nav > li {
+  display: inline-block;
+  padding: 1em;
+  margin: 0; }
+
+.bg-1 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/1.jpg);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  /*background-position:-34px -122px;*/
+  z-index: 1; }
+
+.bg-2 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/2.jpg);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  /*      background-position:-34px -122px;*/
+  z-index: 1; }
+
+.bg-3 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/3.jpg);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  background-position: -34px -122px;
+  z-index: 1; }
+
+.bg-4 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/4.jpg);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  background-position: -34px -122px;
+  z-index: 1; }
+
+.bg-5 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/5.jpg);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  background-position: -34px -122px;
+  z-index: 1; }
+
+.bg-6 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/masquerade.png);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  background-position: -34px -122px;
+  z-index: 1; }
+
+.bg-7 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/7.jpg);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  background-position: -34px -122px;
+  z-index: 1; }
+
+#register {
+  background: #000;
+  color: white; }
+  #register h1 {
+    text-align: center; }
+
+#footer {
+  position: fixed;
+  padding: 5px;
+  height: 64px;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+  z-index: 9999;
+  color: #fff; }
