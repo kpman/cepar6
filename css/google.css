@@ -2,40 +2,53 @@
   font-family: Raleway;
   src: url("../fonts/raleway_thin.otf") format("opentype"); }
 
-html.register {
+html {
   width: 100%;
   height: 100%; }
 
-body.register {
+body {
   padding: 0;
   padding-bottom: 100px;
   width: 100%;
   font-family: Raleway;
-  background: url(../img/8.jpg) no-repeat fixed;
-  background-size: cover; }
-  body.register .logo {
-    text-align: center; }
-  body.register input {
-    padding: 10px;
-    outline: none;
-    border-radius: 5px; }
-  body.register #ss-submit {
-    background: rgba(0, 0, 0, 0.6);
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid #fff;
-    color: #fff;
-    font-family: inherit; }
-    body.register #ss-submit:hover {
-      background: #fff;
-      color: #000;
-      -webkit-transition: all 0.15s ease-in;
-      -moz-transition: all 0.15s ease-in;
-      -o-transition: all 0.15s ease-in;
-      transition: all 0.15s ease-in; }
-  body.register .ss-form-container {
-    font-family: Raleway;
-    background: #000;
-    background: rgba(0, 0, 0, 0.8);
-    border: none;
-    color: white; }
+  background: url(../img/mask.jpg) no-repeat fixed;
+  background-size: cover;
+  overflow-x: hidden; }
+
+.logo {
+  text-align: center; }
+
+input {
+  padding: 5px 10px;
+  outline: none;
+  border-radius: 5px; }
+
+#ss-submit {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  color: #fff;
+  font-family: inherit; }
+  #ss-submit:hover {
+    background: #fff;
+    color: #000;
+    -webkit-transition: all 0.15s ease-in;
+    -moz-transition: all 0.15s ease-in;
+    -o-transition: all 0.15s ease-in;
+    transition: all 0.15s ease-in; }
+
+.ss-form-container {
+  font-family: Raleway;
+  background: #000;
+  background: rgba(0, 0, 0, 0.8);
+  border: none;
+  color: white; }
+
+.thanks {
+  position: relative;
+  margin: 0 auto;
+  padding: 1em;
+  width: 45em;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff; }
