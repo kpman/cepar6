@@ -332,7 +332,7 @@ body {
 .bg-2 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/1.jpg);
+  background-image: url(../img/mask.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   /*      background-position:-34px -122px;*/
@@ -413,4 +413,7 @@ body {
 .introduction {
   text-align: center;
   z-index: 10;
+  background-color: rgba(0, 0, 0, 0.6);
+  letter-spacing: 3px;
+  font-family: '華康秀風體';
 }
