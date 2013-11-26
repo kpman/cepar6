@@ -418,3 +418,8 @@ body {
   letter-spacing: 3px;
   font-family: '華康秀風體';
 }
+
+#location_info {
+  color: rgba(255,200,200,1);
+  text-decoration: none;
+}
