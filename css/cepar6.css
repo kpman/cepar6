@@ -281,7 +281,7 @@ html {
 
 body {
   -webkit-font-smoothing: antialiased;
-  font-family: 'Helvetica Neue thin',Raleway,'細明體','新細明體','微軟正黑體',sans-serif;
+  font-family: Times,'Helvetica Neue thin',Raleway,sans-serif;
   overflow-x: hidden; }
 
 #nav {
@@ -398,7 +398,16 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
   z-index: 9999;
   color: #fff; 
-  text-align: right;
+  text-align: left;
+  font-family: Raleway,sans-serif;
+}
+#footer .fb-like {
+  float: right;
+}
+#footer .author {
+  display: inline-block;
+  margin-top: 25px;
+  margin-left: 10px;
 }
 
 #sign:hover {
@@ -422,4 +431,9 @@ body {
 #location_info {
   color: rgba(255,200,200,1);
   text-decoration: none;
+}
+.map {
+  padding: 15px;
+  background: rgba(255,255,255,0.6);
+  border-radius: 5px;
 }
