@@ -380,6 +380,15 @@ body {
   background-position: -34px -122px;
   z-index: 1; }
 
+.bg-8 {
+  height: 1720px;
+  width: 1440px;
+  background-image: url(../img/Guitar.jpg);
+  background-repeat: no-repeat;
+  background-size: 1720px 1440px;
+  background-position: -34px -122px;
+  z-index: 1; }
+
 .bg {
   background-size: 100% auto;
 }
