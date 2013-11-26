@@ -281,7 +281,7 @@ html {
 
 body {
   -webkit-font-smoothing: antialiased;
-  font-family: Times,'Helvetica Neue thin',Raleway,sans-serif;
+  font-family: Times,'Helvetica Neue thin',Raleway,sans-serif,'微軟正黑體';
   overflow-x: hidden; }
 
 #nav {
@@ -427,7 +427,6 @@ body {
   z-index: 10;
   background-color: rgba(0, 0, 0, 0.6);
   letter-spacing: 3px;
-  font-family: '華康秀風體';
 }
 
 #location_info {
