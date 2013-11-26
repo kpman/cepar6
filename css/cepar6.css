@@ -325,22 +325,20 @@ body {
    background-image: url(../img/bg-1.jpg);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
-  /*background-position:-34px -122px;*/
   z-index: 1; }
 
 .bg-2 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/mask.png);
+  background-image: url(../img/mask1.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
-  /*      background-position:-34px -122px;*/
   z-index: 1; }
 
 .bg-3 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/dress.png);
+  background-image: url(../img/dress1.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
@@ -349,7 +347,7 @@ body {
 .bg-4 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/wine.png);
+  background-image: url(../img/wine1.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
@@ -367,7 +365,7 @@ body {
 .bg-6 {
   height: 1720px;
   width: 1440px;
-  background-image: url(../img/masquerade.png);
+  background-image: url(../img/masquerade1.png);
   background-repeat: no-repeat;
   background-size: 1720px 1440px;
   background-position: -34px -122px;
@@ -381,6 +379,10 @@ body {
   background-size: 1720px 1440px;
   background-position: -34px -122px;
   z-index: 1; }
+
+.bg {
+  background-size: 100% auto;
+}
 
 #register {
   background: #000;
@@ -436,4 +438,12 @@ body {
   padding: 15px;
   background: rgba(255,255,255,0.6);
   border-radius: 5px;
+}
+.sponsor-frame {
+  padding: 20px;
+}
+.sponsor-frame img {
+    height: 90px;
+    display: inline-block;
+    margin-right: 20px;
 }
