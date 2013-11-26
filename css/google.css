@@ -18,7 +18,8 @@ body {
 .logo {
   text-align: center; }
 
-input {
+input,
+textarea {
   padding: 5px 10px;
   outline: none;
   border-radius: 5px; }
@@ -52,3 +53,9 @@ input {
   width: 45em;
   background: rgba(0, 0, 0, 0.8);
   color: #fff; }
+.ss-section-title {
+  color: rgba(255,255,255,0.9);
+  background: #000;
+  border-radius: 5px;
+  border: 1px solid #fff;
+}
