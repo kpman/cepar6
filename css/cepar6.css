@@ -436,16 +436,54 @@ body {
   color: rgba(255,200,200,1);
   text-decoration: none;
 }
+
 .map {
   padding: 15px;
   background: rgba(255,255,255,0.6);
   border-radius: 5px;
 }
+
 .sponsor-frame {
   padding: 20px;
+  width: 1440px;
+  z-index: 10;
 }
+
 .sponsor-frame img {
-    height: 90px;
-    display: inline-block;
-    margin-right: 20px;
+/*    height: 90px;*/
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.gold,.premier,.sponcer {
+  text-align : center;
+  padding-bottom: 50px;
+}
+
+.gold_img {
+  height: 350px;
+  padding-left: 15px;
+  padding-right: 15px;  
+}
+
+.silver_img {
+  height: 180px;
+  padding-left: 15px;
+  padding-right: 15px;  
+}
+
+.premier img {
+  height: 120px;
+  padding-left: 15px;
+  padding-right: 15px;  
+}
+
+.sponcer img {
+  height: 80px;
+  padding-left: 15px;
+  padding-right: 15px;  
+}
+
+#logo {
+  z-index: 100000;
 }
