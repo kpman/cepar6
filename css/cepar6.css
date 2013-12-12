@@ -446,7 +446,6 @@ body {
 .sponsor-frame {
   padding: 20px;
   width: 1440px;
-  z-index: 10;
 }
 
 .sponsor-frame img {
@@ -485,5 +484,5 @@ body {
 }
 
 #logo {
-  z-index: 100000;
+  z-index: 100;
 }
