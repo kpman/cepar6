@@ -458,18 +458,27 @@ body {
   text-align : center;
   padding-top: 150px;
   padding-bottom: 150px;
+  width: 1440px;
+  background-color: rgba(0, 0, 0, 0.6);
+
 }
 
 .premier {
   text-align : center;
-  padding-top: 20px;
+  padding-top: 300px;
   padding-bottom: 50px;
+  width: 1440px;
+  background-color: rgba(0, 0, 0, 0.6);
+
 }
 
 .sponcer {
   text-align : center;
   padding-top: 20px;
   padding-bottom: 450px;
+  width: 1440px;
+  background-color: rgba(0, 0, 0, 0.6);
+
 }
 
 .gold_img {
@@ -484,19 +493,13 @@ body {
   padding-right: 15px;  
 }
 
-.silver_img {
-  height: 180px;
-  padding-left: 15px;
-  padding-right: 15px;  
-}
-
-.premier img {
+.premier_img {
   height: 120px;
   padding-left: 15px;
   padding-right: 15px;  
 }
 
-.sponcer img {
+.sponcer_img {
   height: 80px;
   padding-left: 15px;
   padding-right: 15px;  
