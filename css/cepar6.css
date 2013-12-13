@@ -454,12 +454,31 @@ body {
   margin-right: 20px;
 }
 
-.gold,.premier,.sponcer {
+.gold {
   text-align : center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.premier {
+  text-align : center;
+  padding-top: 20px;
   padding-bottom: 50px;
 }
 
+.sponcer {
+  text-align : center;
+  padding-top: 20px;
+  padding-bottom: 450px;
+}
+
 .gold_img {
+  height: 450px;
+  padding-left: 15px;
+  padding-right: 15px;  
+}
+
+.drink_img {
   height: 350px;
   padding-left: 15px;
   padding-right: 15px;  
